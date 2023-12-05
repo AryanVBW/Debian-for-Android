@@ -14,12 +14,7 @@ simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) 
 
 - **Security:** Benefit from Debian's commitment to robust security practices.
 
-## 🚀 Getting Started:
-
-1. Clone this repository to your Android device.
-2. Navigate to the DebianDelight directory.
-3. Follow the installation instructions in the README file.
-4. Experience Debian's delight on your Android!
+## 🚀 Experience Debian's delight on your Android!
 
 ## 🤝 Contribution and Support:
 
